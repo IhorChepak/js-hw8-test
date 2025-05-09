@@ -17,7 +17,7 @@ const time = 'videoplayer-current-time';
     });
 
 player.pause('pause', function () {
-    console.log('video stop');
+    console.log('video stop ');
     
 })
 

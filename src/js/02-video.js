@@ -46,3 +46,9 @@ player.pause('pause', function () {
         })
     }
 
+
+
+
+
+
+    
